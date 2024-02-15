@@ -1,1 +1,1 @@
-# crm
+# CRM Django application
